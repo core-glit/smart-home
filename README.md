@@ -1,6 +1,6 @@
 # smart-home
 
-~ Controlling Old Home Switches convert By using Smart Automation Tool 
+~ Converting Old Home Switches By using Smart Automation Tool 
 
 # Required Components 
 
